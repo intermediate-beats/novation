@@ -1,2 +1,2 @@
 # Novation
-- [Peak / Summit](peak-summit.md)
+- [Peak / Summit](peak-summit/peak-summit.md)
